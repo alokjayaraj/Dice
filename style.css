@@ -1,0 +1,36 @@
+.container{
+    width: 70%;
+    margin: auto;
+    text-align:center
+    
+}
+.dice{
+    text-align: center;
+    display: inline-block;
+}
+body{
+  background-color: #393E46;
+
+}
+h1{
+    margin: 30px;
+    font-family: Impact, fantasy;
+    font-size:8rem ;
+    color: chartreuse;
+    text-shadow: 5px 2px 5px red;
+
+}
+p{
+    font-family: Brush Script MT, Brush Script Std, cursive;
+    font-size: 2rem;
+    color: yellowgreen;
+}
+img{
+    width: 81%;
+}
+footer{
+    color:burlywood;
+    text-align: center;
+    margin-top: 7%;
+    font-family: 'Indie Flower', cursive;
+}
